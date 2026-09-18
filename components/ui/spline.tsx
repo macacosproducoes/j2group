@@ -1,1 +1,0 @@
-export { SplineScene } from './splite'

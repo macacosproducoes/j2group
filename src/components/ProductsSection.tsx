@@ -133,6 +133,7 @@ export function ProductsSection() {
           src="/images/caixa-j2-box-3d-transparent.png"
           alt="Mini 3D Box Decorativo"
           fill
+          sizes="64px"
           className="object-contain"
         />
       </motion.div>

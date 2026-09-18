@@ -33,6 +33,7 @@ export function Navbar() {
               src="/images/logo_j2_group.png"
               alt="J2 Group"
               fill
+              sizes="48px"
               className="object-contain p-1"
             />
           </div>

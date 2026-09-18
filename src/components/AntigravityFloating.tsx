@@ -59,6 +59,7 @@ export function AntigravityFloating() {
             src="/images/caixa-j2-box-3d-transparent.png"
             alt="Mini Caixa 3D J2 Group"
             fill
+            sizes="64px"
             className="object-contain"
           />
         </div>
@@ -88,6 +89,7 @@ export function AntigravityFloating() {
             src="/images/caixa-j2-box-3d-transparent.png"
             alt="Mini Caixa 3D J2 Group"
             fill
+            sizes="64px"
             className="object-contain"
           />
         </div>
@@ -117,6 +119,7 @@ export function AntigravityFloating() {
             src="/images/caixa-j2-box-3d-transparent.png"
             alt="Caixa 3D J2 Group Flutuante"
             fill
+            sizes="64px"
             className="object-contain"
           />
         </div>
@@ -143,6 +146,7 @@ export function AntigravityFloating() {
             src="/images/caixa-j2-box-3d-transparent.png"
             alt="Caixa 3D J2 Group Flutuante"
             fill
+            sizes="64px"
             className="object-contain"
           />
         </div>
