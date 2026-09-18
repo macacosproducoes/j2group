@@ -13,10 +13,26 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://j2pack.com"),
   title: "J2 Group | Soluções em Embalagens & Fitas Adesivas Industriais",
   description: "Fitas adesivas com metragem real garantida e caixas de papelão reforçadas. Atacado e varejo direto da fábrica com pronta entrega. J2 Group.",
   icons: {
     icon: "/images/logo_j2_group.png",
+  },
+  openGraph: {
+    title: "J2 Group | Soluções em Embalagens & Fitas Adesivas",
+    description: "Fitas adesivas com metragem real garantida e caixas de papelão reforçadas. J2 Group.",
+    url: "https://j2pack.com",
+    siteName: "J2 Group",
+    images: [
+      {
+        url: "/images/logo_j2_group.png",
+        width: 800,
+        height: 600,
+      },
+    ],
+    locale: "pt_BR",
+    type: "website",
   },
 };
 
